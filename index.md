@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Vmware Reporter
 
 You can use the [editor on GitHub](https://github.com/ozgurmazlum/vmware-reporter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
